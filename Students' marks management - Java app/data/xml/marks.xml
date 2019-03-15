@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<marks>
+    <mark>
+        <id>1</id>
+        <idstudent>2</idstudent>
+        <idlabproblem>1</idlabproblem>
+        <nota>10</nota>
+    </mark>
+    <mark>
+        <id>2</id>
+        <idstudent>1</idstudent>
+        <idlabproblem>4</idlabproblem>
+        <nota>9</nota>
+    </mark>
+</marks>

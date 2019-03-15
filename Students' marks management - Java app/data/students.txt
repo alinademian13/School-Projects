@@ -1,0 +1,6 @@
+1,TEEEEEST,400
+108,Student108,123
+2,ST2,2
+5,Student5,300
+10,Student10,101
+18,EEE,3

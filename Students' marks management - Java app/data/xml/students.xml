@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    
+
+    
+
+
+
+
+    
+
+    
+    
+    
+<student>
+        <id>2</id>
+        <name>ST2</name>
+        <group>102</group>
+    </student>
+    <student>
+        <id>5</id>
+        <name>dia</name>
+        <group>4</group>
+    </student>
+    <student>
+        <id>8</id>
+        <name>Andreea</name>
+        <group>2</group>
+    </student>
+    <student>
+        <id>104</id>
+        <name>nume</name>
+        <group>23</group>
+    </student>
+</students>

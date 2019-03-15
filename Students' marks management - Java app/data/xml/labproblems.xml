@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<labproblems>
+    
+    
+    
+
+    
+    
+    
+<labproblem>
+        <id>2000</id>
+        <discipline>Medii de Programare</discipline>
+        <labnumber>1</labnumber>
+    </labproblem>
+    <labproblem>
+        <id>2002</id>
+        <discipline>OOP</discipline>
+        <labnumber>2</labnumber>
+    </labproblem>
+    <labproblem>
+        <id>2001</id>
+        <discipline>Testare</discipline>
+        <labnumber>1</labnumber>
+    </labproblem>
+</labproblems>
