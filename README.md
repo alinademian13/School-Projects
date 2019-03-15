@@ -1,7 +1,7 @@
 # School-Projects
 
 
-Students & Disciplines Manager - is an application written in Java using
+Students & Disciplines management - is an application written in Java using
 Spring and REST template. It manages the 2 entities, students and lab
 problems. The connection to the data base and the tables were created
 using Hibernate. The web app (server side) uses Tomcat and the client
